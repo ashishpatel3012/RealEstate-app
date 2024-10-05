@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "house-1",
+    "img": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "50,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 4.4,
+    "area":1300
+  },
+  {
+    "id": 2,
+    "title": "house-1",
+    "img": "https://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433&width=1440",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "80,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "title": "house-1",
+    "img": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyaminmellish-1396122.jpg&fm=jpg",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "60,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 4.1
+  },
+  {
+    "id": 4,
+    "title": "house-1",
+    "img": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "75,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 5.0
+  },
+  {
+    "id": 5,
+    "title": "house-1",
+    "img": "https://images.moneycontrol.com/static-mcnews/2021/12/Housing-trends-4-718x435.jpg",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "81,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 3.4
+  },
+  {
+    "id": 6,
+    "title": "house-1",
+    "img": "https://english.mathrubhumi.com/image/contentid/policy:1.9741799:1721436275/1.jpg?$p=f73e629&f=16x10&w=856&q=0.8",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "94,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "house-1",
+    "img": "https://png.pngtree.com/thumb_back/fw800/background/20240614/pngtree-modern-3d-luxury-real-estate-house-image_15868494.jpg",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "78,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "title": "house-1",
+    "img": "https://windermerenoco.com/files/2020/03/content_Windermere_Real_Estate_Blog__-_Modern_Architecture.png",
+    "bedRooms": 2,
+    "bathRooms": 1,
+    "price": "66,00,000",
+    "address": "xyz, mumbai,india",
+    "rating": 5.0
+  }
+]

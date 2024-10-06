@@ -2,3 +2,56 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+.popup-content{
+    position: relative;
+    margin:auto;
+    background:hsl(160, 73%, 51%);
+    
+    padding:5px;
+    border:1px solid #d7d7d7;
+    top: 918px !important;
+    left: 200px !important;
+    padding: 10px;
+    
+}
+
+[role=tooltip].popup-content{
+    background-color: #a6b7ee;
+    box-shadow:0 0 3px rgba(0,0,0,.16);
+    border-radius:5px;
+    width: 89% !important;
+    height: 320px !important;
+    
+    display: flex;
+    justify-content: flex-start;
+    /* flex-wrap: wrap; */
+    gap: 15px;
+    overflow-x: scroll;
+   
+    
+}
+.popup-overlay{
+    background:rgba(0,0,0,.5)
+
+}
+
+[data-popup=tooltip].popup-overlay{
+    
+    background:transparent;
+
+
+}.popup-arrow{
+    -webkit-filter:drop-shadow(0 -3px 3px rgba(0,0,0,.16));
+    filter:drop-shadow(0 -3px 3px rgba(0,0,0,.16));
+    color:#fff;
+    stroke-width:2px;
+    stroke:#d7d7d7;
+    stroke-dasharray:30px;
+    stroke-dashoffset:-54px;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+}

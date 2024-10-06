@@ -1,7 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { FaCaretDown } from "react-icons/fa";
-import { FaCaretUp } from "react-icons/fa";
+
 import { ImCross } from "react-icons/im";
 
 
@@ -37,7 +36,7 @@ export const DropZipcode = () => {
 
   function showdata(event){
     event.preventDefault();
-    console.log(selectedZipcode);
+    //console.log(selectedZipcode);
   
     // setSelectedZipcode(event.target.value);
     
@@ -73,7 +72,7 @@ export const DropZipcode = () => {
     </div>
     
     </div>
-    <div className="w-full h-96  ">
+    <div className="w-full h-fit  ">
       <div className="bg-gray-100 w-[25%] h-fit ml-auto mr-5  p-3 flex flex-col gap-2 rounded-md ">
     
     <h1 className="bg-gray-200 p-1  rounded-md">- {showZipcode}
